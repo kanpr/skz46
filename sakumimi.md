@@ -68,7 +68,7 @@
 | #62 | 2021-07-16 | 大沼晶保、増本綺良 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40126?ima=0000&cd=radio) |
 | #63 | 2021-07-20 | 土生瑞穂、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40162?ima=0000&cd=radio) |
 | #64 | 2021-07-23 | 土生瑞穂、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40190?ima=0000&cd=radio) |
-| #65 | 2021-07-27 | 大園玲、松田里奈、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40222?ima=0000&cd=radio) |
+| #65 | 2021-07-27 | 大園玲、松田里奈 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40222?ima=0000&cd=radio) |
 | #66 | 2021-07-30 | 大園玲、松田里奈 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40283?ima=0000&cd=radio) |
 | #67 | 2021-08-03 | 藤吉夏鈴、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40328?ima=0000&cd=radio) |
 | #68 | 2021-08-06 | 藤吉夏鈴、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/40383?ima=0000&cd=radio) |
