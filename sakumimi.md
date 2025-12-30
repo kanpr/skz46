@@ -3,7 +3,7 @@
 リンク先を開くには、ファンクラブへの加入が必要です。
 
 | 配信回 | 配信日 | 出演メンバー | 記事URL |
-| --- | --- | --- | --- |
+| ---: | --- | --- | :---: |
 | #1 | 2020-12-15 | 藤吉夏鈴、森田ひかる、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/35913?ima=0000&cd=radio) |
 | #2 | 2020-12-18 | 藤吉夏鈴、森田ひかる、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/36973?ima=0000&cd=radio) |
 | #3 | 2020-12-22 | 藤吉夏鈴、森田ひかる、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/37023?ima=0000&cd=radio) |

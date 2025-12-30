@@ -3,7 +3,7 @@
 リンク先を開くには、櫻坂46ファンクラブへの加入と、スマートフォンからのアクセスが必要です。
 
 | 配信回 | 配信日 | 出演メンバー | 記事URL |
-| --- | --- | --- | --- |
+| ---: | --- | --- | :---: |
 | #1 | 2020-04-03 | 渡辺梨加、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/33105?ima=0000&cd=keyamimi) |
 | #2 | 2020-04-04 | 渡辺梨加、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/33106?ima=0000&cd=keyamimi) |
 | #3 | 2020-04-05 | 渡辺梨加、渡邉理佐 | [Link](https://sakurazaka46.com/s/s46/diary/detail/33107?ima=0000&cd=keyamimi) |
