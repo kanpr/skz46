@@ -539,3 +539,4 @@
 | #533 | 2025-12-23 | 浅井恋乃未、目黒陽色 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67248?ima=0000&cd=radio) |
 | #534 | 2025-12-26 | 浅井恋乃未、目黒陽色 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67299?ima=0000&cd=radio) |
 | #535 | 2025-12-30 | 幸阪茉里乃、小田倉麗奈、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67360?ima=0000&cd=radio) |
+| #536 | 2026-01-02 | 幸阪茉里乃、小田倉麗奈、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67442?ima=0000&cd=radio) |
