@@ -1,3 +1,3 @@
 # 索引
-- [けやみみ 配信リスト](keyamimi.md)
-- [さくみみ 配信リスト](sakumimi.md)
+- [けやみみ一覧](keyamimi.md)
+- [さくみみ一覧](sakumimi.md)
