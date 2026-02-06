@@ -1,2 +1,4 @@
+url: "https://kanpr.github.io"
+baseurl: "/skz46"
 plugins:
   - jekyll-sitemap

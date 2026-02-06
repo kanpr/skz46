@@ -540,3 +540,13 @@
 | #534 | 2025-12-26 | 浅井恋乃未、目黒陽色 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67299?ima=0000&cd=radio) |
 | #535 | 2025-12-30 | 幸阪茉里乃、小田倉麗奈、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67360?ima=0000&cd=radio) |
 | #536 | 2026-01-02 | 幸阪茉里乃、小田倉麗奈、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67442?ima=0000&cd=radio) |
+| #537 | 2026-01-06 | 遠藤理子、山田桃実 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67469?ima=0000&cd=radio) |
+| #538 | 2026-01-09 | 遠藤理子、山田桃実 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67497?ima=0000&cd=radio) |
+| #539 | 2026-01-13 | 大沼晶保、稲熊ひな、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67537?ima=0000&cd=radio) |
+| #540 | 2026-01-16 | 大沼晶保、稲熊ひな、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67571?ima=0000&cd=radio) |
+| #541 | 2026-01-20 | 松田里奈、守屋麗奈 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67631?ima=0000&cd=radio) |
+| #542 | 2026-01-23 | 松田里奈、守屋麗奈 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67644?ima=0000&cd=radio) |
+| #543 | 2026-01-27 | 藤吉夏鈴、的野美青 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67687?ima=0000&cd=radio) |
+| #544 | 2026-01-30 | 藤吉夏鈴、的野美青 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67735?ima=0000&cd=radio) |
+| #545 | 2026-02-03 | 浅井恋乃未、中川智尋、山川宇衣 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67821?ima=0000&cd=radio) |
+| #546 | 2026-02-06 | 浅井恋乃未、中川智尋、山川宇衣 | [Link](https://sakurazaka46.com/s/s46/diary/detail/67861?ima=0000&cd=radio) |
