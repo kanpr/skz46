@@ -566,3 +566,11 @@
 | #560 | 2026-03-27 | 小島凪紗、村井優 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68615?ima=0000&cd=radio) |
 | #561 | 2026-03-31 | 村山美羽、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68753?ima=0000&cd=radio) |
 | #562 | 2026-04-03 | 村山美羽、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68804?ima=0000&cd=radio) |
+| #563 | 2026-04-07 | 稲熊ひな、山川宇衣 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68843?ima=0000&cd=radio) |
+| #564 | 2026-04-10 | 稲熊ひな、山川宇衣 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68894?ima=0000&cd=radio) |
+| #565 | 2026-04-14 | 松本和子、山田桃実 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68930?ima=0000&cd=radio) |
+| #566 | 2026-04-17 | 松本和子、山田桃実 | [Link](https://sakurazaka46.com/s/s46/diary/detail/68979?ima=0000&cd=radio) |
+| #567 | 2026-04-21 | 武元唯衣、松田里奈、中嶋優月 | [Link](https://sakurazaka46.com/s/s46/diary/detail/69015?ima=0000&cd=radio) |
+| #568 | 2026-04-24 | 武元唯衣、松田里奈、中嶋優月 | [Link](https://sakurazaka46.com/s/s46/diary/detail/69033?ima=0000&cd=radio) |
+| #569 | 2026-04-28 | 大園玲、村井優、山下瞳月 | [Link](https://sakurazaka46.com/s/s46/diary/detail/69097?ima=0000&cd=radio) |
+| #570 | 2026-05-01 | 大園玲、村井優、山下瞳月 | [Link](https://sakurazaka46.com/s/s46/diary/detail/69114?ima=0000&cd=radio) |
