@@ -602,3 +602,11 @@
 | #596 | 2026-07-31 | 幸阪茉里乃、増本綺良 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70389?ima=0000&cd=radio) |
 | #597 | 2026-08-04 | 小田倉麗奈、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70448?ima=0000&cd=radio) |
 | #598 | 2026-08-07 | 小田倉麗奈、勝又春 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70474?ima=0000&cd=radio) |
+| #599 | 2026-08-11 | 石森璃花、稲熊ひな | [Link](https://sakurazaka46.com/s/s46/diary/detail/70544?ima=0000&cd=radio) |
+| #600 | 2026-08-14 | 石森璃花、稲熊ひな | [Link](https://sakurazaka46.com/s/s46/diary/detail/70583?ima=0000&cd=radio) |
+| #601 | 2026-08-18 | 村山美羽、松本和子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70619?ima=0000&cd=radio) |
+| #602 | 2026-08-21 | 村山美羽、松本和子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70664?ima=0000&cd=radio) |
+| #603 | 2026-08-25 | 大沼晶保、増本綺良 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70725?ima=0000&cd=radio) |
+| #604 | 2026-08-28 | 大沼晶保、増本綺良 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70765?ima=0000&cd=radio) |
+| #605 | 2026-09-01 | 遠藤理子、中川智尋 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70811?ima=0000&cd=radio) |
+| #606 | 2026-09-04 | 遠藤理子、中川智尋 | [Link](https://sakurazaka46.com/s/s46/diary/detail/70835?ima=0000&cd=radio) |
