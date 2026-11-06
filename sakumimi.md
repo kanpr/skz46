@@ -618,3 +618,13 @@
 | #612 | 2026-09-25 | 小田倉麗奈、村山美羽 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71125?ima=0000&cd=radio) |
 | #613 | 2026-09-29 | 大園玲、遠藤理子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71168?ima=0000&cd=radio) |
 | #614 | 2026-10-02 | 大園玲、遠藤理子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71213?ima=0000&cd=radio) |
+| #615 | 2026-10-06 | 松田里奈、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71275?ima=0000&cd=radio) |
+| #616 | 2026-10-09 | 松田里奈、山﨑天 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71321?ima=0000&cd=radio) |
+| #617 | 2026-10-13 | 田村保乃、谷口愛季 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71359?ima=0000&cd=radio) |
+| #618 | 2026-10-16 | 田村保乃、谷口愛季 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71407?ima=0000&cd=radio) |
+| #619 | 2026-10-20 | 森田ひかる、浅井恋乃未 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71455?ima=0000&cd=radio) |
+| #620 | 2026-10-23 | 森田ひかる、浅井恋乃未 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71470?ima=0000&cd=radio) |
+| #621 | 2026-10-27 | 石森璃花、遠藤理子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71510?ima=0000&cd=radio) |
+| #622 | 2026-10-30 | 石森璃花、遠藤理子 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71533?ima=0000&cd=radio) |
+| #623 | 2026-11-03 | 大沼晶保、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71585?ima=0000&cd=radio) |
+| #624 | 2026-11-06 | 大沼晶保、佐藤愛桜 | [Link](https://sakurazaka46.com/s/s46/diary/detail/71691?ima=0000&cd=radio) |
